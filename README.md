@@ -10,9 +10,9 @@ PROJECT GROUP 8
 ● Susmitha Dalli
 
 ## COMMUNICATION PLAN:
-● All the Team members decided to discuss perspectives and insights through slack orGmail chat and exchange their ideas apparently whenever it’s required.
-● All the Team members planned to gather or meet via Zoom or Google meet wheneverrequired and will work on finishing the tasks accordingly.
-● The project's repository can be accessed on GitHub using URL that’s given below:
+- All the Team members decided to discuss perspectives and insights through slack orGmail chat and exchange their ideas apparently whenever it’s required.
+- All the Team members planned to gather or meet via Zoom or Google meet wheneverrequired and will work on finishing the tasks accordingly.
+- The project's repository can be accessed on GitHub using URL that’s given below:
 
 ## DATA SET SELECTION :
 We selected the data set from Kaggle active competitions to analyze. Below is the link to our
