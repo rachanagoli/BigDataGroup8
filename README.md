@@ -28,9 +28,9 @@ on asteroids, which can pave the way for future asteroid mining expeditions. Con
 ## RESEARCH OBJECTIVES AND QUESTIONS:
 During our research work, several questions have come up. The questions listed below are a few of the ones that deserve comprehensive research and should be considered from a wider perspective. We have opted to employ AWS technologies to implement the solution. The crucial task at hand is to determine the most suitable designs and algorithms to analyze the dataset effectively.
 We listed out the following questions as an initial attempt towards the project:
-● Can we predict the diameter of an asteroid in the solar system?
-● Can we predict whether an asteroid is Potentially Hazardous or not ?
-● Can we predict the probability of an asteroid colliding with the Earth based on its orbit
+- Can we predict the diameter of an asteroid in the solar system?
+- Can we predict whether an asteroid is Potentially Hazardous or not ?
+- Can we predict the probability of an asteroid colliding with the Earth based on its orbit
 and eccentricity?
-● Can we predict the composition of an asteroid based on its spectral characteristics and
+- Can we predict the composition of an asteroid based on its spectral characteristics and
 other observable properties
