@@ -17,9 +17,8 @@ PROJECT GROUP 8
 ## DATA SET SELECTION :
 We selected the data set from Kaggle active competitions to analyze. Below is the link to our
 dataset selected.
-### Dataset 1 : Asteroid Dataset
+### Asteroid Dataset
 ### Link: https://github.com/rachanagoli/BigDataGroup8
-### Asteroid Dataset | Kaggle
 
 ## BUSINESS PROBLEM OR OPPORTUNITY, DOMAIN KNOWLEDGE:
 The asteroid dataset offers valuable insights and opportunities for multiple domains, including astronomy and space exploration. It contains information on the materialistic characteristics and the orbital details of more than 17,000 asteroids. Moreover, detecting and monitoring potentially dangerous asteroids can help avert catastrophic incidents, such as an asteroid collision with Earth. The dataset also facilitates the identification of valuable resources, like water and metals,
@@ -36,5 +35,8 @@ and eccentricity?
 other observable properties
 
 ## DATA UNDERSTANDING:
-### Exploratory Data Analysis
+### Exploratory Data Analysis:
 Exploratory Data Analysis was done through AWS Sagemaker. The link for the file is pasted here:
+https://github.com/rachanagoli/BigDataGroup8/blob/main/deliverable%202.ipynb
+### Dashboard:
+Dashboard instances were created using AWS Quicksight. These dashboards are used for presenting results using visualizations such as representing graphs like Pie Chart and Bar Chart for evaluating the research objectives. Also several different plots have been created using Scikit learn library from python and Amazon SageMaker notebook (AWS). Some of the graphs for AWS QuickSight are presented in the PDF, the link for the same is pasted below:
