@@ -34,3 +34,7 @@ We listed out the following questions as an initial attempt towards the project:
 and eccentricity?
 - Can we predict the composition of an asteroid based on its spectral characteristics and
 other observable properties
+
+## DATA UNDERSTANDING:
+### Exploratory Data Analysis
+Exploratory Data Analysis was done through AWS Sagemaker. The link for the file is pasted here:
