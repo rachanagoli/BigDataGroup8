@@ -47,6 +47,18 @@ The data was first uploaded to an S3 bucket, and then the AWS S3 copy command wa
 The Asteroid dataset comprises of 45 features that offer extensive insights into various aspects of asteroids. Prior to constructing an analytical model, the data underwent cleaning procedures, which involved removing null values and special characters. To filter out any outliers, the Z-score approach was employed, which rates each data point based on its originality and magnitude. The dataset was split into two sections, with 80% of the data assigned to the training set and 20% allocated to the testing set.
 Various models were generated to make predictions on the asteroid dataset such as Random Forest, XGBoost, Decision Tree, Naïve Bayes, Logistic Regression, and K-Nearest Neighbors. To evaluate the effectiveness of the models, standard metrics such as Accuracy and F1 score were used along with Precision and Recall. Accuracy measures the proportion of correct predictions made by the model, while MSE (Mean Squared Error) assesses how well the model's predictions agree with the data.
 Analytics and machine learning in Amazon are powered by machine learning technologies such as SageMaker. The dataset underwent recognition using Amazon Athena and Glue before being further processed by SageMaker to leverage the best ML tools for its structure and produce the most accurate results. The dataset's schema was meticulously examined to ensure optimal use of ML tools, and Amazon SageMaker was utilized to obtain the results.
+![image](https://user-images.githubusercontent.com/119633747/236372888-73a72285-4a6f-4cbb-9629-12a4ac3bdf93.png)
+![image](https://user-images.githubusercontent.com/119633747/236372905-9dccc861-64ad-4b61-ba98-4aaa744dcb1e.png)
+![image](https://user-images.githubusercontent.com/119633747/236372923-409eef94-8c1c-4ec3-aa67-4fd0c3ad2a11.png)
+![image](https://user-images.githubusercontent.com/119633747/236372934-10aa4d49-df0f-459c-97e4-b626e6c505f6.png)
+![image](https://user-images.githubusercontent.com/119633747/236372956-b53c78c2-75c6-4c62-8b86-9664a69fd69f.png)
+![image](https://user-images.githubusercontent.com/119633747/236372980-90be4a56-6032-41db-9390-1c102471b3c6.png)
+![image](https://user-images.githubusercontent.com/119633747/236373006-062c87cc-fd21-4d44-8657-3253fa6801c6.png)
+![image](https://user-images.githubusercontent.com/119633747/236373030-8962e7f5-b64d-4b3d-91aa-6f83153e829c.png)
+![image](https://user-images.githubusercontent.com/119633747/236373074-9f87d9fd-3038-4705-a10d-ae7f8b5ae2f7.png)
+![image](https://user-images.githubusercontent.com/119633747/236373091-04ef2ba8-41cf-4978-b5ba-0f19004fd764.png)
+![image](https://user-images.githubusercontent.com/119633747/236373111-5d4cc9ba-feb6-4313-979a-48068eea5484.png)
+![image](https://user-images.githubusercontent.com/119633747/236373132-4e14ba84-1a97-4f25-bab5-366f691bd5e9.png)
 ## EVALUATION & OPTIMIZATION: 
 F1 score and accuracy metrics are used to evaluate the performance of classification models. F1 score is a harmonic mean of precision and recall, which means it considers both false positives and false negatives. On the other hand, accuracy measures the proportion of correctly classified instances among all instances.
 While accuracy is a good metric for balanced datasets, it can be misleading when dealing with imbalanced datasets like ours, where one class is much more prevalent than the other. In such cases, a model that always predicts the majority class can still achieve high accuracy but fails to detect instances of the minority class.
@@ -73,3 +85,4 @@ One potential avenue is to explore more advanced machine learning algorithms, su
 ### Instructions for individuals that may want to use your work
 To reproduce our findings, it is important for interested parties to install necessary Python libraries, including NumPy, Pandas, Matplotlib, Sns, and Sklearn, which are extensively used in this project. Additionally, the dataset should undergo thorough data cleansing, transformation, and preparation to remove most of the outliers, ensuring the accuracy of machine learning models and visualizations. The dataset is sourced from Kaggle, and those who wish to use our work must set up an appropriate AWS environment with the necessary credentials. AWS services may incur charges that need to be paid. After loading the Kaggle data into AWS, the user must configure AWS SageMaker to run the Python notebook containing the code. The GitHub repository contains all other requirements for the procedure.
 ## PRESENTATION VIDEO:
+https://drive.google.com/file/d/1o_SJC1hUkCltnXged5tr7eoZMOoi4JiQ/view?usp=sharing
