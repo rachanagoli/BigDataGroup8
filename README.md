@@ -6,8 +6,7 @@ PROJECT GROUP 8
 ● Aneela Gannarapu
 ● Preetham Garre
 ● Rachana Goli
-● Sai Rithwik Reddy Bolla
-● Susmitha Dalli
+
 
 ## COMMUNICATION PLAN:
 - All the Team members decided to discuss perspectives and insights through slack orGmail chat and exchange their ideas apparently whenever it’s required.
